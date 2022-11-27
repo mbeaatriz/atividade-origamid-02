@@ -1,0 +1,35 @@
+body {
+  font-family: Arial;
+}
+div {
+  background: #111;
+  margin: 0 50px 20px 50px;
+  border-radius: 4px;
+  padding: 30px 0px 30px 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin: 0 0 0 0;
+  color: #fff;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+a {
+  display: inline-block;
+  background: #febe01;
+  padding: 10px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #332200;
+}
+
+span {
+  color: #febe01;
+}
